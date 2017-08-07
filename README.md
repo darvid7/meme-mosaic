@@ -16,9 +16,9 @@ It extracts the pixel values of the larger fill image to tint tile images and us
 
 Zooming in on that created image you can see the tile image.
 
-<img src="/images/zoomed_in_1.jpg" width="200">
+<img src="/images/zoomed_in_1.png" width="200">
 
-<img src="/images/zoomed_in_2.jpg" width="200">
+<img src="/images/zoomed_in_2.png" width="200">
 
 # Things I need to do
 
