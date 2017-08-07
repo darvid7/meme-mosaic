@@ -20,7 +20,11 @@ Zooming in on that created image you can see the tile image.
 
 <img src="/images/zoomed_in_2.png" width="200">
 
+# Running it
+
+You need `python3` and `Pillow` installed, running it in PyCharm runs it in a virtual environemnt (which has everything insallted) `dowload_path/venv`, you can also run it on command line `python3 dowload_path/meme-moasic/memify.py`.
+
 # Things I need to do
 
-1. Feed image paths by cmd line args
-2. Turn it into a REST API
+1. Feed image paths by cmd line args.
+2. Turn it into a REST API (venv will be great for this).
